@@ -1,0 +1,23 @@
+{
+  "name": "ibook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/houruiqi/ibook.git"
+  },
+  "keywords": [],
+  "author": "houruiqi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/houruiqi/ibook/issues"
+  },
+  "homepage": "https://github.com/houruiqi/ibook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
